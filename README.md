@@ -22,3 +22,9 @@ Link: https://seer.uniacademia.edu.br/index.php/engsoftware/index
  * .NetCore SDK - v3.1+ - https://dotnet.microsoft.com/en-us/download/dotnet
  * Visual Studio 2022 (Windows e MAC) - https://visualstudio.microsoft.com/downloads
  * Visual Studio Code (Linux) - https://code.visualstudio.com/docs?dv=win&wt.mc_id=DX_841432&sku=codewin
+ 
+### Informações importantes
+#### Como instalar ferramentas do EntityFrameworkCore
+ * [learn.microsoft.com/pt-br/ef/core/cli/powershell](https://learn.microsoft.com/pt-br/ef/core/cli/powershell)
+#### Como gerenciar migrações usando o EF
+ * https://learn.microsoft.com/pt-br/ef/core/managing-schemas/migrations/managing?tabs=dotnet-core-cli
