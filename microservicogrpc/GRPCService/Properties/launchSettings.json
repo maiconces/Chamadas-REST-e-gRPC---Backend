@@ -1,0 +1,21 @@
+﻿{
+  "profiles": {
+    "IIS Express": {
+      "commandName": "ProjectGRPC",
+      "launchBrowser": true,
+      "launchUrl": "metrics-text",
+      "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+      "gRPC": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "metrics-text",
+      "applicationUrl": "https://localhost:5001",
+      "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

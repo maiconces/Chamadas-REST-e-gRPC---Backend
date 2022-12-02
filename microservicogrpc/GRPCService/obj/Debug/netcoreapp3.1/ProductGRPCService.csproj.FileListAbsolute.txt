@@ -1,0 +1,422 @@
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.exe
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.deps.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.runtimeconfig.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.pdb
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.All.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Mvc.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Mvc.Core.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Routing.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.HealthChecks.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.InfluxDB.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.InfluxDB.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.InfluxDB.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.Socket.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Web.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\staticwebassets\ProductGRPCService.StaticWebAssets.Manifest.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.RazorTargetAssemblyInfo.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.CopyComplete
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.pdb
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.genruntimeconfig.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.pdb
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.exe
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.deps.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.runtimeconfig.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ProductGRPCService.pdb
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.All.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Mvc.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Mvc.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Routing.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.HealthChecks.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.InfluxDB.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.InfluxDB.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.GrafanaCloudHostedMetrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.InfluxDB.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\App.Metrics.Reporting.Socket.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Web.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\staticwebassets\ProductGRPCService.StaticWebAssets.Manifest.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.RazorTargetAssemblyInfo.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.csproj.CopyComplete
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCService\obj\Debug\netcoreapp3.1\ProductGRPCService.genruntimeconfig.cache

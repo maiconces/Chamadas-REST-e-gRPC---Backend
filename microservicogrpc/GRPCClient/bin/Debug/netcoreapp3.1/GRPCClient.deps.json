@@ -1,0 +1,141 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GRPCClient/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.12.3",
+          "Grpc.Net.Client": "2.30.0",
+          "Grpc.Tools": "2.30.0"
+        },
+        "runtime": {
+          "GRPCClient.dll": {}
+        }
+      },
+      "Google.Protobuf/3.12.3": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.12.3.0",
+            "fileVersion": "3.12.3.0"
+          }
+        }
+      },
+      "Grpc.Core.Api/2.30.0-pre1": {
+        "dependencies": {
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.Api.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.30.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Client/2.30.0": {
+        "dependencies": {
+          "Grpc.Net.Common": "2.30.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.1",
+          "System.Diagnostics.DiagnosticSource": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Grpc.Net.Client.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.30.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Common/2.30.0": {
+        "dependencies": {
+          "Grpc.Core.Api": "2.30.0-pre1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Grpc.Net.Common.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.30.0.0"
+          }
+        }
+      },
+      "Grpc.Tools/2.30.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.5.1": {},
+      "System.Memory/4.5.3": {}
+    }
+  },
+  "libraries": {
+    "GRPCClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.12.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k+Dj0bdOy6/xhIZOthvDS2Ux9y5q6dWw+36n3SBVHYl520+tvcqLOpx6YsgQVy12cuzZbF+r73RZ0fxmpJ8c6A==",
+      "path": "google.protobuf/3.12.3",
+      "hashPath": "google.protobuf.3.12.3.nupkg.sha512"
+    },
+    "Grpc.Core.Api/2.30.0-pre1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FO/Xg/9aJDpK9bXcWrw1A0VGhns/eID5arIco1p1Zoc/PomIfv54w5l8ik7K9hKejieZnC1NWZ8tPo5ckOKgCA==",
+      "path": "grpc.core.api/2.30.0-pre1",
+      "hashPath": "grpc.core.api.2.30.0-pre1.nupkg.sha512"
+    },
+    "Grpc.Net.Client/2.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LfvnO3ahboj2V2perNryvExSrD5On89N1C7+K83kmLhoCHhNe/PURjcrg3o4wjOxfN9YjzB8RnTXn99Pw5RPQA==",
+      "path": "grpc.net.client/2.30.0",
+      "hashPath": "grpc.net.client.2.30.0.nupkg.sha512"
+    },
+    "Grpc.Net.Common/2.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WGEaQQ5dVMaEJPk6wGuiTZKxNpWG5xonjbzEldPHfy4rNuIk8XyX57hp2GfjqFqfeYjxBpwE7XMGJc9T6dnZ+Q==",
+      "path": "grpc.net.common/2.30.0",
+      "hashPath": "grpc.net.common.2.30.0.nupkg.sha512"
+    },
+    "Grpc.Tools/2.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ObXaZFLTH8Bhzy2Qu0OeLiAT7y0l1MVGzdMiRUGaeBMixtKTozVYdRMX2jozikt7H3ZsAadBnaelKba3sdJlKQ==",
+      "path": "grpc.tools/2.30.0",
+      "hashPath": "grpc.tools.2.30.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XRzK7ZF+O6FzdfWrlFTi1Rgj2080ZDsd46vzOjadHUB0Cz5kOvDG8vI7caa5YFrsHQpcfn0DxtjS4E46N4FZsA==",
+      "path": "microsoft.extensions.logging.abstractions/2.1.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "path": "system.diagnostics.diagnosticsource/4.5.1",
+      "hashPath": "system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    }
+  }
+}

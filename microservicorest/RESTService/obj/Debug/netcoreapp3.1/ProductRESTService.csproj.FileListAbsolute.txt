@@ -1,0 +1,953 @@
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.csprojAssemblyReference.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.xml
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTMicroservice\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csprojAssemblyReference.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.xml
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csprojAssemblyReference.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.xml
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductRESTService.styles.css
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\Projetos\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Epoch.net.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\openTSDB.net.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.HealthChecks.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\prometheus-net.DotNetRuntime.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.SystemMetrics.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.Abstractions.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.AspNetCore.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.HttpRequestDurations.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.MetricServer.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMonoPosixHelper.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMonoPosixHelper.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libMonoPosixHelper.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMonoPosixHelper.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libMonoPosixHelper.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\native\libMonoPosixHelper.dylib
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MonoPosixHelper.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libMonoPosixHelper.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MonoPosixHelper.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libMonoPosixHelper.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\tcc projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.AssemblyReference.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cs
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.xml
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductRESTService.styles.css
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+C:\tcc projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.StaticWebAssets.xml
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Epoch.net.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\openTSDB.net.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.HealthChecks.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\prometheus-net.DotNetRuntime.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.SystemMetrics.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.AspNetCore.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.HttpRequestDurations.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.MetricServer.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\native\libMonoPosixHelper.dylib
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projeto\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.StaticWebAssets.xml
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Epoch.net.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\openTSDB.net.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.HealthChecks.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\prometheus-net.DotNetRuntime.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.SystemMetrics.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.AspNetCore.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.HttpRequestDurations.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.MetricServer.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\native\libMonoPosixHelper.dylib
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projetos\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.StaticWebAssets.xml
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.exe
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.deps.json
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.json
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Endpoints.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Health.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Reporting.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.AspNetCore.Tracking.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Concurrency.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Extensions.Hosting.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Formatters.Prometheus.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Core.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.Configuration.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Ascii.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Health.Formatters.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\App.Metrics.Prometheus.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Epoch.net.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\openTSDB.net.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.HealthChecks.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\prometheus-net.DotNetRuntime.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.SystemMetrics.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.AspNetCore.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.HttpRequestDurations.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\Prometheus.Client.MetricServer.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libMonoPosixHelper.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx\native\libMonoPosixHelper.dylib
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\lib\netstandard2.0\Mono.Posix.NETStandard.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MonoPosixHelper.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libMonoPosixHelper.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cs
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.MvcApplicationPartsAssemblyInfo.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\staticwebassets\ProductRESTService.StaticWebAssets.Manifest.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.RazorTargetAssemblyInfo.cache
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.csproj.CopyComplete
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.dll
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.pdb
+D:\TCC 2022-2\Projetos alterado\microservicorest\ProductRESTService\obj\Debug\netcoreapp3.1\ProductRESTService.genruntimeconfig.cache

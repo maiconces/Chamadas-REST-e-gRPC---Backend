@@ -1,0 +1,118 @@
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csprojAssemblyReference.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\Users\u6065416\OneDrive - Thomson Reuters Incorporated\Desktop\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csprojAssemblyReference.cache
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\Projetos\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache
+C:\tcc projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projeto\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projetos\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.exe
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.deps.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.runtimeconfig.dev.json
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.AssemblyReference.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfoInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.AssemblyInfo.cs
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CoreCompileInputs.cache
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.csproj.CopyComplete
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.dll
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.pdb
+D:\TCC 2022-2\Projetos alterado\microservicogrpc\ProductGRPCClient\obj\Debug\netcoreapp3.1\ProductGRPCClient.genruntimeconfig.cache

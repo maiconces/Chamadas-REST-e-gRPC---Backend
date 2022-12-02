@@ -1,0 +1,85 @@
+
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet add package Microsoft.EntityFrameworkCore.SQLite
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+
+Liste os modelos instalados e os detalhes sobre eles, incluindo como desinstalá-los:
+dotnet new -u
+Criando Projeto ProductMicroservice
+-dotnet new WebApi -o ProductMicroservice
+
+Instalando  EntityFramework Core
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.5
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 3.1.5
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.1.5
+
+-dotnet restore
+-dotnet ef
+
+Testar se os comandos ef estão disponíveis
+-dotnet ef -h
+
+Gerando o controle de Produtos
+dotnet aspnet-codegenerator controller -name ProductController -m Product -dc ProductContext --relativeFolderPath /Controllers --useDefaultLayout --referenceScriptLibraries
+
+Adiciona as migrações
+-dotnet ef migrations add InitialCreate
+Exclui as Mifraçãoes
+-dotnet ef migrations remove
+cria as bases
+-dotnet ef database update
+
+############################## Projeto Gateway ###############################
+criando Api Gateway
+-dotnet new web -n Gateway
+
+Adicionando o Ocelot 
+-dotnet add package Ocelot
+
+Instalando pacotes de Metricas
+-dotnet add package App.Metrics.AspNetCore --version 4.2.0-preview.0.10
+-dotnet add package App.Metrics.AspNetCore.Endpoints --version 4.2.0-preview.0.10
+-dotnet add package App.Metrics.AspNetCore.Tracking --version 4.2.0-preview.0.10
+-dotnet add package App.Metrics.Formatters.Prometheus --version 4.2.0-preview.0.10
+
+EndPOint Mectrics
+-https://localhost:5001/metrics
+-https://localhost:5001/metrics-text
+
+Instalando Ferramenta de Metricas Prometheus
+https://prometheus.io/download/
+Configure o arquivo 'prometheus.yml' antes de instalar a ferramenta:
+    #configurando metricas
+  - job_name: 'productsapi'
+    static_configs:
+      - targets: ['localhost:5000']
+    metrics_path: /metrics-text  
+Instalando a ferramenta de graficos Grafana
+
+
+dotnet add  package Grpc.Net.Client
+dotnet add  package Google.Protobuf
+dotnet add  package Grpc.Tools
+
+
+dotnet add package App.Metrics.AspNetCore.All --version 4.2.0-preview.0.10
+
+    dotnet add package App.Metrics.AspNetCore --version 4.2.0-preview.0.10
+    dotnet add package Grpc.AspNetCore.Web --version 2.30.0
+    dotnet add package App.Metrics.AspNetCore.Endpoints --version 4.2.0-preview.0.10
+    dotnet add package App.Metrics.AspNetCore.Tracking --version 4.2.0-preview.0.10
+    dotnet add package App.Metrics.Formatters.Prometheus --version 4.2.0-preview.0.10
+
+    dotnet add package NetGrpcPrometheus --version 1.0.0
+
+
+dotnet dev-certs https -ep .\Certificate\certificate.pfx -p 123456 
+dotnet dev-certs https --trust  
+
+docker build -t server_grpc -f Dockerfile .
+
+docker run --rm -it -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_HTTPS_PORT=1 -e ASPNETCORE_Kestrel__Certificates__Default__Password="123456" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/App/Certificate/certificate.pfx -v ${HOME}/.aspnet/https:/https/ --name sv_grpc server_grpc

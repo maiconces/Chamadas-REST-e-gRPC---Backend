@@ -1,0 +1,38 @@
+
+syntax = "proto3";
+
+option csharp_namespace = "ProductService";
+
+package product;
+
+/*************
+ * Services
+ *************/
+service gRPC {
+
+   rpc Post(Product) returns (Product) {}
+}
+message Empty{}
+
+ message Product{
+
+    int32 Id = 1;
+    string Name = 2;
+    string Description = 3;
+    string Price = 4;
+    string CategoryId = 5;
+}
+
+message ProductListResponse {
+    repeated Product products = 1;
+}
+
+message Void {} 
+
+message ProductId  {
+   int32 Id = 1;
+}
+
+message Status {
+    string code = 1;
+}

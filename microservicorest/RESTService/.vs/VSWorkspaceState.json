@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\DBContexts",
+    "\\Migrations",
+    "\\Models",
+    "\\obj",
+    "\\Repository"
+  ],
+  "SelectedNode": "\\Models\\Category.cs",
+  "PreviewInSolutionExplorer": false
+}
